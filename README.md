@@ -1,2 +1,2 @@
 # AndroidStudio
-Aplicaciones desarrolladas en Android Studio implementando Kotlin
+App desarrollada en android studio implementando kotlin para el calculo de la edad mediante el año que se le introdusca
